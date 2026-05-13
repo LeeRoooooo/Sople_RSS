@@ -1,0 +1,4 @@
+requests
+pytz
+feedgen
+playwright
