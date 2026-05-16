@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 16 May 2026 16:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 19:10:26 +0000</lastBuildDate>
     <item>
       <title>[AI뉴스] 2026.05.16 장기요양보험제도의 효과성 제고를 위...</title>
       <link>https://sople.me/newsroom/news-list/298220?newsType=policy</link>
@@ -18,7 +18,7 @@ AI 정책 뉴스
 
 한국개발연구원은 노인장기요양보험제도가 의료비 지출에 미치는 대체 효과를 분석하고, 정책적 시사점을 모색한 보고서를 발표하였다. - 우리나라는 고령화의 진전에 따라 노인 의료비 지출이 증가하고 있으며, 특히 의료적 필요도는 낮지만 요양 필요도가 높은 노인이 고비용의 의료기관에 장기간 입원하는 이른바 사회적 입원 현상이 중요한 정책 과제로 지적되고 있음. 이러한 노인의 돌봄 수요 증가와 삶의 질 개선의 필요성, 그리고 비효율적인 의료비 지출 문제에 대응하기 위해 정부는 2008년에 노인장기요양보험제도를 도입하였음. 제도 도입 이후 장기요양 서비스의 대상과 범위는 지속적으로 확대되었으며, 도입 초기의 3등급 체계에서 경증 치매 노인을 포괄하는 6등급 체계로 개편되었음. 아울러 시설 중심의 급여 제공 방식에서 재가 중심으로 전환하고자 재가급여의 보장성도 강화되었음. - 본 연구는 노인코호트 DB를 활용하여 노인장기요양보험제도가 의료비 지출에 미치는 대체 효과를 분석함으로써, 현행 노인장기요양보험제도의 효과성을 검토하고자 함. 또한 이러한 결과를 토대로 향후 장기요양보험제도의 의료 이용 대체 효과를 제고할 수 있는 정책적 시사점을 제시함. 실증분석 방법으로는 노인장기요양보험제도의 각 등급 기준점 근방에서 시설 및 재가 급여 비용이 외생적으로 변화한다는 점에 착안하여, 경사형 회귀불연속설계(Fuzzy Regression Disontinuity Design)와 사건사 분석(Event Study Design)을 활용하였음.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298220?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:17 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 공공기관 상생협력 사업의 문제점과 ...</title>
@@ -30,7 +30,7 @@ AI 정책 뉴스
 
 국회예산정책처는 공공기관 상생협력 사업의 문제점을 분석하고, 개선과제를 모색한 보고서를 발표하였다. - 최근 대기업과 중소기업 간 경쟁력 격차가 확대되는 구조적 문제에 직면하면서, 정부는 단순한 개별 기업지원을 넘어 대·중소기업 간 상생협력 강화를 강조하고 있음 - 동반성장협력대출과 대·중소기업상생협력기금(이하 상생협력기금)은 상생협력을 실질적으로 구현하기 위한 대표적인 정책 수단이며, 공공기관은 상생협력 정책의 주요 실행 주체로서 중요한 역할을 담당함 - 본 보고서는 공공기관을 중심으로 동반성장협력대출과 상생협력기금 출연사업의 운영실태를 종합적으로 검토하고, 제도의 실효성을 저해하는 운영상의 문제점과 한계를 분석하여 정책적 시사점을 도출하고자 함</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298221?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:17 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 AI 전환 시대 핵심 인프라, 서버...</title>
@@ -42,7 +42,7 @@ AI 전환 시대 핵심 인프라, 서버산업의 현황과 정책 시사점
 
 산업연구원은 AI 전환 시대 핵심 인프라와 서버산업의 현황과 정책 시사점을 살펴본 보고서를 발표하였다. - 생성형 AI의 등장 이후 AI 전환(AX) 가속화로 데이터센터 수요가 급증하면서 서버시장이 빠르게 성장하고 있음. 향후 서버 시장은 거대언어모델(LLM) 학습 단계를 넘어 실제 서비스 구현을 위한 추론용 수요 중심으로 전환되며 성장을 견인할 것으로 전망됨. 서버는 단순한 IT 인프라를 넘어 전 세계적으로 폭증하는 데이터를 처리·저장하기 위한 핵심 기반이자 AI 경쟁력의 척도가 되고 있음. 이는 메타, 아마존 등 글로벌 빅테크 기업들이 서버를 자체 제작하고 있는 이유이기도 함. 서버산업의 생태계에서 우리나라는 반도체와 저장장치 분야에서 경쟁우위를 점하고 있지만, 서버 완제품과 소프트웨어 등 전반적인 서버의 글로벌 경쟁력은 미흡한 실정임. 단기적으로 경쟁력을 확보하기에는 한계가 있지만, 중장기 관점에서 국내 서버 시장 활성화와 기업들의 투자를 유도하여 경쟁력을 확보해야 함. 특히 데이터를 유출하는 백도어 및 개인정보 유출 등 보안 위협이 증대되는 상황에서 국가 안보 차원에서 서버산업의 전략적 육성이 요구됨.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298222?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 EU 및 중국이 주도하는 「규제형 ...</title>
@@ -54,7 +54,7 @@ EU 및 중국이 주도하는 「규제형 탄소시장 국제 협의체」 출�
 
 한국은행은 「규제형 탄소시장 국제 협의체」 출범에 대한 현지 평가를 살펴본 보고서를 발표하였다. 1. 출범 배경 - 지난해 11월 브라질 벨렝(Bel？m, 아마존 지역)에서 개최된 제30차 ？UN기후변화협약 당사국총회(COP30)？에서 개최국인 브라질은 정부 주도의 규제형탄소시장*에서의 국제협력 강화를 주요 의제로 제시한 바 있음 - 이러한 문제인식 하에 참가국들은 지난 5.7일 이탈리아 피렌체에서 개최된 회의에서 규제형 탄소시장 국제 협의체*(Open Coalition on Compliance Carbon Markets)의 공식 출범을 선언 2. 현지 평가 - 이번 탄소시장 협의체 출범을 글로벌 탄소시장 간 연계 및 탄소가격의 국제 표준화 논의가 본격화될 수 있는 중요한 전환점으로 평가 - 또한 트럼프 2기 출범 이후 미국의 기후 리더십이 약화된 상황에서, 중국이 EU·브라질 등과의 협력을 기반으로 글로벌 탄소시장 및 탄소가격 체계 논의에서 영향력을 확대하려는 전략적 행보로 평가하는 시각도 존재 3. 향후 전망 - 향후 동 국제 협의회는 협의회의 주축국이면서 배출권거래시스템(ETS)이 이미 운영되고 있는 EU와 중국이 주도*하면서 주로 양국간 탄소시장의 부문별 정합성 제고가 주요 의제로 다루어 질 것으로 예상</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298223?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 미 베센트 재무장관 방일 회담 내용...</title>
@@ -66,7 +66,7 @@ AI 정책 뉴스
 
 국제금융센터는 미 베센트 재무장관 방일 회담 내용 및 평가를 살펴본 보고서를 발표하였다. - [이슈] 미 베센트 재무장관은 5.11~13일 일정으로 일본을 방문. 엔저를 억제하기 위한 외환시장 개입에 대한 경계감이 높은 상황에서의 방문으로 회담 내용에 주목 - [평가] 대체로 예상되었던 내용이지만 BOJ가 금리 인상에 나서고 있는 가운데 미국의 일본 금융？외환시장 관련 초점이 통화정책에서 재정정책으로 옮겨가고 있을 가능성. 환율 안정의 관점에서도 재정 리스크 억제가 더욱 요구될 전망</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298224?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 미국 2026.4월 소비자물가 동향...</title>
@@ -78,7 +78,7 @@ AI 정책 뉴스
 
 한국은행은 미국 2026.4월 소비자물가 동향 및 금융시장 반응을 살펴본 보고서를 발표하였다. 1. 美 소비자물가 동향 - ‘26.4월 美 소비자물가(Headline CPI) 상승률은 3.8%(전년동월비, 시장예상치[3.7%] 상회)로 전월(3.3%)보다 상승하였으며, 전월대비(SA 기준)로는 전월(0.9%)보다 하락한 0.6%(시장예상치 부합)를 기록 - 구성항목별(전월비 기준)로 보면 서비스(전월 0.2% → 0.5%)와 식품(0.0% → 0.5%)은 상승폭이 확대되었으나, 상품(0.1% → 0.0%)과 에너지(10.9% → 3.8%)는 상승세가 축소 2. 금융시장 반응 - 시장참가자들은 헤드라인 CPI가 상승세를 지속하고 근원 CPI도 예상치를 상회함에 따라 인플레이션 우려가 확대되었으며, 높은 에너지 가격이 상품？서비스 가격으로 전이될 가능성이 상존하는 등 물가상승압력은 당분간 이어질 것으로 전망 - 투자은행들은 향후 에너지 충격 여파가 수개월에 걸쳐 파급될 수 있는 만큼 연준이 상당기간 정책금리를 동결하며 관망기조를 유지할 것이라는 전망을 유지 - CPI 발표(8:30am) 이후 금융시장에서는 헤드라인 CPI 급등세 지속, 근원 CPI 예상치 상회에 주목하면서 금리는 상승, 미달러화는 강세를 보이고 주가는 하락하였으나, 이후 주가는 헬스케어 부문 강세*(+1.9%) 등으로 하락폭을 대부분 축소</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298225?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 제조 AI 전환 활성화를 위한 시사...</title>
@@ -90,7 +90,7 @@ AI 정책 뉴스
 
 산업연구원은 제조 AI 전환 활성화를 위한 시사점을 살펴본 보고서를 발표하였다. - 우리나라는 오랜 제조 경험을 통해 축적된 제조 역량, 제조혁신과 R&amp;D 강화를 통한 지속적 고부가가치화 시도, 제조업 디지털 전환 전 범위를 포괄하는 정책 지원 등 상대적 강점을 보유한 대표적인 국가로 평가된다. 그러나 제조 현장에서는 질적 중심의 디지털 전환과 인공지능 전환의 전개가 지체되고 있다. 이에 제조 현장 친화적 해결 방안 제시를 위해 제조 시스템의 발전과 연계하여 제조업 인공지능의 전개 과정을 살펴본다. 이 과정에서 우리나라 AX를 지체하게 만든 잠재적 요인으로 저조한 스마트 공장 고도화 전환율, 산업부-중기부로 이원화된 정책 추진 체계, ‘AI 모델 중심’의 접근, AX 인프라에 대한 정책적 관심 부족 등을 제시한다. 그리고 이러한 문제의 해소를 위해 첫째, 역량 있는 스마트 제조 공급기업의 육성을 통한 스마트 제조 고도화 전환율 제고, 둘째, 스마트 공장-AI 팩토리 연계(Bridge) 프로그램 도입, 셋째, 제조기업의 문제 식별 및 정의 역량 강화, 넷째 AX 인프라 지원 강화 등의 정책과제를 제언한다. 이들 과제는 현행 지원정책을 보완함으로써 원활한 제조 AX의 이행을 목적으로 한다</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298226?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 최근 유로지역 경제동향 및 전망(2...</title>
@@ -102,7 +102,7 @@ AI 정책 뉴스
 
 한국은행은 2026년 4월 유로지역 경제동향과 전망을 분석한 보고서를 발표하였다. - (실물경제)중동전쟁 관련 불확실성이 지속되면서 경기 회복 흐름은 약화되었으며, 물가는 에너지 가격**을 중심으로 상승(26.3월 2.6% → 4월 3.0%p) → 향후 성장은 에너지 가격 상승 및 불확실성 확대로 소비심리가 제약되면서 그간 이어진 회복세가 약화될 것으로 보이며, 물가는 단기적으로 상승세가 이어지다가 점차 상승폭이 완만해져 중기적으로는 정책목표(2%) 수준에서 등락할 것으로 전망 - (금융시장) 금리(독일국채[10년])는기대 인플레이션 급등, 독일 국채발행 확대 전망 등의 영향으로 소폭 상승하였고, 주가는 중동지역 긴장완화에 따른 위험선호심리 강화로 상승. 유로화는 중동전쟁 종전 기대감에 따른 달러화 약세의 영향으로 강세 → 투자은행들은 중동전쟁이 장기화되지 않을 경우 독일 국채금리는 소폭 상승하고, 유로화 환율(달러/유로)은 달러 대비 소폭 강세를 보일 것으로 전망</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298227?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 최근(2026.4월)의 미국경제 상...</title>
@@ -114,7 +114,7 @@ AI 정책 뉴스
 
 한국은행은 최근(2026.4월)의 미국경제 상황과 평가를 살펴본 보고서를 발표하였다. - 미국 경제는 ’26.1/4분기 성장률이 투자 확대와 셧다운 종료 등에 힘입어 반등하였으나, 소비가 둔화되고 산업생산은 감소 전환 - 시장금리(국채 10년 기준)는 유가상승으로 인한 인플레이션 압력 증대, 미·이란 협상 기대 등에 따른 안전자산 선호 심리 축소, 견조한 고용지표 등으로 소폭 상승 -’26.4월 FOMC에서 연준은 정책금리 목표범위를 동결하였으며, 시장은 정책결정문 내 완화 편향 문구 유지에 반대하는 소수의견(3인) 등을 매파적으로 받아들이며 연내 금리인하 가능성이 축소된 것으로 평가</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298228?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.05.16 헝가리 오르반 총리 퇴진 이후 유럽...</title>
@@ -126,187 +126,187 @@ AI 정책 뉴스
 
 국제금융센터는 헝가리 오르반 총리 퇴진 이후 유럽 정세를 살펴본 보고서를 발표하였다. - [이슈] 4.12일 헝가리 총선에서 유럽 우파 민족주의의 상징이자 친러 및 친트럼프 행보를 보여온 대표적 인물인 오르반 총리 여당이 대패 - [정치적 상황] 헝가리 정권 교체의 배경으로 경제난, 부패 문제가 지목. 헝가리는 친 EU 정당이 승리했지만 유럽 전반적으로는 EU 회의파, 강경 우파 및 포퓰리즘 정당의 약진이 지속 - [향후 전망] 최근 선거 결과들을 종합해서 보면 EU 확대, 대러 제재 등 중요 안건에 대한 회원국간 결속은 앞으로도 어려울 수 있음을 시사. 그간 헝가리로 인해 입장을 명확히 하지 않아도 됐던 국가들이 거부권을 행사할 가능성도 배제하기 곤란</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/298229?newsType=policy</guid>
-      <pubDate>Sat, 16 May 2026 16:01:16 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:36 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 체험 매장이 뜬다... 파는 공간...</title>
       <link>https://sople.me/author/board/275961</link>
       <guid isPermaLink="false">https://sople.me/author/board/275961</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 중국 인구 절반이 즐기는 '숏드'...</title>
       <link>https://sople.me/author/board/278563</link>
       <guid isPermaLink="false">https://sople.me/author/board/278563</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] Mnet은 왜 오디션 프로그램을 ...</title>
       <link>https://sople.me/author/board/281076</link>
       <guid isPermaLink="false">https://sople.me/author/board/281076</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 화산이 터지면 경제는 어떻게 될까?</title>
       <link>https://sople.me/author/board/277746</link>
       <guid isPermaLink="false">https://sople.me/author/board/277746</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 제이크는 왜 인간을 배반했나......</title>
       <link>https://sople.me/author/board/283003</link>
       <guid isPermaLink="false">https://sople.me/author/board/283003</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 에이전트로 20분만에 책을 번역했다.</title>
       <link>https://sople.me/author/board/272545</link>
       <guid isPermaLink="false">https://sople.me/author/board/272545</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] AI가 식당에 전화, 예약까지?🤖...</title>
       <link>https://sople.me/author/board/283659</link>
       <guid isPermaLink="false">https://sople.me/author/board/283659</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 공부가 밥 먹여주던 시대의 종언,...</title>
       <link>https://sople.me/author/board/279870</link>
       <guid isPermaLink="false">https://sople.me/author/board/279870</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] “끝날 때까지 끝난 게 아니다” ...</title>
       <link>https://sople.me/author/board/282623</link>
       <guid isPermaLink="false">https://sople.me/author/board/282623</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] AI 영상 자동화의 역설: 도구는...</title>
       <link>https://sople.me/author/board/282624</link>
       <guid isPermaLink="false">https://sople.me/author/board/282624</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 중국 전문가들에게 2026년 미중...</title>
       <link>https://sople.me/author/board/283664</link>
       <guid isPermaLink="false">https://sople.me/author/board/283664</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 환경의 시대는 끝난 걸까</title>
       <link>https://sople.me/author/board/286377</link>
       <guid isPermaLink="false">https://sople.me/author/board/286377</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 요동치는 금값, 그 배경엔 중국?...</title>
       <link>https://sople.me/author/board/286781</link>
       <guid isPermaLink="false">https://sople.me/author/board/286781</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 무심코 재테크 무시하다 벼락거지 ...</title>
       <link>https://sople.me/author/board/286225</link>
       <guid isPermaLink="false">https://sople.me/author/board/286225</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 첨단의 도시, 실리콘밸리 라이프</title>
       <link>https://sople.me/author/board/286625</link>
       <guid isPermaLink="false">https://sople.me/author/board/286625</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 승자의 저주가 될 뻔한 엄홍도의 ...</title>
       <link>https://sople.me/author/board/290049</link>
       <guid isPermaLink="false">https://sople.me/author/board/290049</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] ‘악수 굴욕’에서 ‘절절 끓는 가...</title>
       <link>https://sople.me/author/board/286613</link>
       <guid isPermaLink="false">https://sople.me/author/board/286613</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 와세다 이어 교토대  가는 J돌,...</title>
       <link>https://sople.me/author/board/289179</link>
       <guid isPermaLink="false">https://sople.me/author/board/289179</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 디카프리오가 던진 질문...이민자...</title>
       <link>https://sople.me/author/board/286782</link>
       <guid isPermaLink="false">https://sople.me/author/board/286782</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 지역 축제가 된 GTC... 엔비...</title>
       <link>https://sople.me/author/board/291456</link>
       <guid isPermaLink="false">https://sople.me/author/board/291456</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 중국 최대 정치행사 '양회'를 다...</title>
       <link>https://sople.me/author/board/292057</link>
       <guid isPermaLink="false">https://sople.me/author/board/292057</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] "생각만큼 안 올랐네" 유가 급등...</title>
       <link>https://sople.me/author/board/291470</link>
       <guid isPermaLink="false">https://sople.me/author/board/291470</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 이란 전쟁의 뒷면: 환율, 물가, 가뭄</title>
       <link>https://sople.me/author/board/293573</link>
       <guid isPermaLink="false">https://sople.me/author/board/293573</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 10년 후를 위해 지금 어떤 것을...</title>
       <link>https://sople.me/author/board/219577</link>
       <guid isPermaLink="false">https://sople.me/author/board/219577</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] ‘기후 재앙론’은 얼마나 신뢰할 만한가</title>
       <link>https://sople.me/author/board/292021</link>
       <guid isPermaLink="false">https://sople.me/author/board/292021</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 무심코 주식산 30대가 인생 꼬이...</title>
       <link>https://sople.me/author/board/291289</link>
       <guid isPermaLink="false">https://sople.me/author/board/291289</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 정산 받는 K팝, 월급 받는 J팝</title>
       <link>https://sople.me/author/board/295613</link>
       <guid isPermaLink="false">https://sople.me/author/board/295613</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] '실패'란 멋진 것이다...서울자...</title>
       <link>https://sople.me/author/board/295494</link>
       <guid isPermaLink="false">https://sople.me/author/board/295494</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 10초만에 후다닥⚡베이징 '휴머노...</title>
       <link>https://sople.me/author/board/295947</link>
       <guid isPermaLink="false">https://sople.me/author/board/295947</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 애플은 왜 '엔지니어'를 차기CE...</title>
       <link>https://sople.me/author/board/296166</link>
       <guid isPermaLink="false">https://sople.me/author/board/296166</guid>
-      <pubDate>Sat, 16 May 2026 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:10:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
