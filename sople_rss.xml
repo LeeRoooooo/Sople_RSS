@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:34:25 +0000</lastBuildDate>
     <item>
       <title>[AI뉴스] 2026.08.19 은행-기업 이분 네트워크의 구조적 ...</title>
       <link>https://sople.me/newsroom/news-list/319073?newsType=policy</link>
@@ -18,7 +18,7 @@ AI 정책 뉴스
 
 한국금융연구원은 은행-기업 이분 네트워크의 구조적 특성을 분석한 보고서를 발표하였다. - 본 연구는 국내 은행-기업 대출관계를 이분 네트워크로 구성하고, 공동차주를 매개로 형성되는 은행 간 간접연결 구조를 분석함. 기존 연구가 주로 은행 간 자금거래나 금융회사 주가수익률에 기반한 단일 모드 네트워크에 초점을 두었다면, 본 연구는 은행과 기업을 서로 다른 노드로 구분함으로써 기업대출 관계를 통한 은행 간 상호연계성을 파악하였다는 점에서 차별성을 가지고 있음. 분석 결과, 국내 은행권에는 동일 기업에 복수 은행이 대출을 제공하는 다중대출 구조가 광범위하게 존재하는 것으로 나타남. 특히 특수은행은 공동차주를 매개로 한 기업대출 네트워크의 핵심 연결축으로 나타났는데, 이는 정책금융 공급, 취약 차주 지원, 특정 산업·기업군에 대한 신용공급이라는 한국 기업금융시장의 구조적 특성을 반영하는 것으로 판단됨. 또한 가중차수 중심성이 높은 은행일수록 기업여신 고정이하여신비율이 높았는데, 이러한 관계는 특수은행과 지방은행에서 더욱 뚜렷하였음. 이러한 분석결과는 금융안정 감독이 개별 은행의 자본비율, 연체율, 수익성 등 전통적 지표를 넘어 공동차주 집중도와 은행 간 간접연결성까지 고려하는 방향으로 확장될 필요가 있음을 시사함.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319073?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 장애인 노동의 가치는 어떻게 평가되...</title>
@@ -30,7 +30,7 @@ AI 정책 뉴스
 
 국회입법조사처는 장애인 최저임금 적용 제외 제도의 재검토 필요성과 방향성을 살펴본 보고서를 발표하였다. - 현행 「최저임금법」상 장애인 최저임금 적용 제외 제도는 평가 기준이 모호하고 임금 하한선이 부재하여, 장애인 근로자를 극단적인 저임금 구조에 방치하며 명시적 차별을 유발한다는 지적이 있음. - 최저임금 적용 제외 제도는 장애인 고용의 확대 효과가 제한적인 반면, 지역·시설·근로형태에 따른 임금 및 처우 격차를 지속시키고 있음. - 최저임금 적용 제외 조항의 개선과 함께 작업능력평가 체계 정비, 직업재활시설 기능 재편 등을 통해 장애인 고용·소득보장 체계를 재구축할 필요가 있음.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319074?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 금융회사의 AI 거버넌스 구축을 위...</title>
@@ -42,7 +42,7 @@ AI 정책 뉴스
 
 한국금융연구원은 금융회사의 AI 거버넌스 구축을 위한 정책과제를 모색한 논단을 발표하였다. - 금융 분야 AI의 안전한 활용을 위해 각국 감독 당국은 금융회사에 대해 AI 시스템의 기획. 개발. 운영. 통제와 관련된 조직 내 역할과 책임 체계로 정의되는 ‘AI 거버넌스(Governance) 확립’을 최우선 과제로 요구하고 있음. - 최근 우리나라도 「금융 분야 인공지능 가이드라인」 등을 통해 AI 거버넌스 강화를 위한 요건들을 제시하였는데 이러한 요건들을 구현하는 과정에서 당국은 다음 사항들을 중점 추진할 필요가 있음. - 빠르게 진화하는 AI 모델의 리스크를 효과적으로 통제하기 위해서는 당국이 AI 개발. 활용과 관련된 핵심 원칙(예: 공정성, 투명성, 소비자 보호, 데이터 보안 등)은 제시하되, 금융회사가 감독 목표에 부합하는 거버넌스를 자율적으로 구현하도록 유도해야 함. - AI 거버넌스 강화를 위해 이미 시행 중인 책무구조도 제도를 충분히 활용하는 한편 AI의 안전한 활용을 위해 금융 규제 샌드박스도 보다 적극적으로 활용할 필요가 있음. - 최신 AI 모델은 블랙박스 성격을 가지고 있음을 감안하여 설명 가능성, 투명성 등 AI 활용의 전제 조건이 되는 최소 요건을 구체적으로 제시할 필요가 있음.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319075?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 독일 산업경쟁력 약화 배경과 시사점...</title>
@@ -54,7 +54,7 @@ AI 정책 뉴스
 
 한국은행은 독일 산업경쟁력 약화 배경과 시사점을 살펴본 보고서를 발표하였다. - 독일 경제의 성장세가 최근 들어 주요국에 비해 뚜렷하게 부진한 모습을 보이고 있음. 실질 GDP 성장률은 2023~2024년 중 2년 연속 마이너스를 기록하며 같은 기간 유로 지역, 미국 등 주요국의 성장세를 뚜렷이 밑돌았음([그림 1]). 일각에서는 이러한 성장 부진의 배경으로 중국과의 경쟁 심화에 따른 수출 부진을 지목하고 있음. - 그러나 이러한 수출 부진의 이면에는 보다 근본적인 산업 경쟁력의 구조적 취약성이 자리 잡고 있음. 에너지 정책의 실패, 산업 전환의 지연, 노동 경쟁력 약화, 인프라·공공 투자 부진과 같은 구조적 요인이 최근의 대외 충격에 대한 독일 경제의 취약성을 높였을 가능성이 있는 것임([그림 2]). 이러한 점에서 최근 독일 경제의 부진은 새로운 문제라기보다는 기존의 구조적 취약성이 뚜렷하게 드러난 현상으로 해석할 수 있음. - 이하에서는 독일 산업 경쟁력 약화 현상의 구조적 배경을 살펴본 후 한국 경제에 대한 시사점을 제시해 보고자 함. 먼저 최근 독일 경제의 성장 둔화와 수출 부진 현상을 점검하고, 이어 그 기저에 있는 에너지, 산업 전환, 노동시장, 인프라 측면의 구조적 원인을 분석하였음. 다음으로 이러한 구조적 제약으로 독일이 AI 확산의 수혜를 충분히 누리지 못하고 있는 상황과 독일 산업 경쟁력 부진이 유로 지역 전반의 성장에 미치는 영향을 차례로 살펴봄. 마지막으로 이를 바탕으로 한국 경제에 대한 시사점과 정책 방향을 도출해 보고자 함.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319076?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 미국 정부의 미토스(Mythos) ...</title>
@@ -66,7 +66,7 @@ AI 정책 뉴스
 
 국회입법조사처는 고성능 AI 모델 전략자산화와 한국 소버린 AI의 과제를 모색한 보고서를 발표하였다. - 지난 6월 12일, 미국 정부는 앤트로픽 ‘미토스5’와 ‘페이블5’의 수출을 막았음. 고성능 AI 모델의 안전장치를 우회하는 ‘탈옥’이 발생할 경우 국가 안보에 중대한 위협이 될 수 있다는 판단에서였음. 수출 통제는 6월 말에 해제되었지만, 고성능 AI 모델이 언제든 정부 통제를 받는 전략자산이 될 수 있다는 선례를 남겼음. 이번 사태를 계기로 한국은 독자 AI 모델 개발을 넘어 국내 AI 생태계를 스스로 키우고 위험관리하는 ‘주권적 통제력을 갖는 소버린 AI’로 나아가야 함.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319077?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 사생활 훔쳐보는 로봇청소기를 그대로...</title>
@@ -78,7 +78,7 @@ AI 정책 뉴스
 
 국회입법조사처는 사물인터넷(IoT) 보안 강화를 위한 입법 및 정책 과제를 모색한 보고서를 발표하였다. - 로봇청소기·IP카메라 등 가정용 기기부터 산업 설비와 국가 핵심인프라까지 사물인터넷(IoT)의 활용이 확대되면서 보안 위협 또한 커지고 있음. IoT 기기가 해킹될 경우 개인정보뿐 아니라 영상·음성정보, 생활패턴 등이 유출되어 심각한 사생활 침해가 발생할 수 있으며, 산업설비와 국가 기반시설 관련 IoT가 사이버 공격을 받을 경우 사회 전반의 시스템을 위협할 수 있음. 그러나 현행 IoT 보안 정책은 자율인증 중심으로 운영되어 실효성이 낮고, 최소 보안기준과 점검체계도 미흡한 실정이다. 이에 국민의 사생활 보호와 국가 핵심인프라의 안전 확보를 위해 IoT 보안 정책 전반에 대한 개선이 요구됨.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319078?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 재사용 유리병은 왜 1회용 용기로 ...</title>
@@ -90,7 +90,7 @@ AI 정책 뉴스
 
 국회입법조사처는 빈용기보증금제도의 재사용 기반 약화와 정책 전환 방향을 살펴본 보고서를 발표하였다. - 현재 국내 음료용기 정책에서 가장 주목해야 할 변화는 플라스틱병의 배출 증가 그 자체가 아니라 재사용 가능한 빈용기, 특히 빈용기보증금 대상 유리용기의 시장 기반이 축소되고, 그 자리를 페트(PET)병·캔 등 1회용 포장재가 대체하고 있다는 점임. - 빈용기보증금제도는 회수율 99% 수준의 외형적 성과를 보이고 있으나, 보증금 대상 빈용기 출고량은 2003년 56.19억 병에서 2025년 37.42억 병으로 약 33.4% 감소하였고, 소주·맥주 시장의 보증금 빈용기 비중도 동반 하락하여, 재사용이라는 제도의 본래 목적이 약화되고 있음. - 향후 음료용기 정책은 “플라스틱병을 더 잘 재활용”에 그치는 것이 아니라, 「자원재활용법」 제15조의2 개정을 통해 재사용 우선 원칙의 명문화, 재사용 비중 목표 관리, 표준용기 지정, 1회용 포장재 전환 영향평가, 반환 인프라 다층화 등 도입으로 빈용기보증금제도를 회수율 중심 제도에서 재사용 유지 중심 제도로 전환해야 함.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319079?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 제조기업 인공지능 전환(AX)을 위...</title>
@@ -102,7 +102,7 @@ AI 정책 뉴스
 
 과학기술정책연구원은 공급망 기반 제조데이터 활용도 제고 정책과제를 모색한 보고서를 보고서를 발표하였다. - 제조기업의 인공지능 전환(AX)은 인공지능 솔루션을 도입하는 것만으로 달성되기 어려우며, 제조 현장에서 생성되는 데이터의 수집·관리·분석·활용 체계를 함께 구축하는 것이 중요함. 제조 데이터는 불량 예측, 예지 보전, 공정 최적화, 생산 계획 고도화 및 공급망 리스크 대응을 가능하게 하는 전략적 자산이지만, 제조 중소기업은 데이터 인프라와 전문 인력, 공정과 데이터의 연계 역량 부족으로 활용에 제약을 받고 있음. - 제조 데이터는 개별 기업 내부에만 머무르지 않고 장비 기업, 솔루션 기업, 인접 제조기업 및 중견·대기업과의 관계 속에서 생성·분석·공유되므로, 데이터 활용도 제고를 위해서는 공급망 내 데이터 흐름과 협력 관계를 고려한 정책 접근이 필요함. 본 연구는 네 가지 협력 유형을 구분하여 유형별 병목과 정책 과제를 검토하고, 국내외 데이터 플랫폼 및 데이터 스페이스 사례를 통해 데이터 표준·상호 운용성·품질·접근 권한·데이터 주권·표준 계약 및 성과 배분 등 기술적·제도적 기반의 중요성을 제시하였음. (정책 과제 1) 제조 중소기업-장비 기업 간 장비 데이터의 접근성·표준화·품질 검증 및 노후 장비 데이터 이관 지원 (정책 과제 2) 제조 중소기업-솔루션 기업 간 데이터 인터페이스, 모델 재학습, 성능 모니터링 및 현장 환류를 포함한 제조 AI 솔루션의 지속 운영 체계 강화 (정책 과제 3) 인접 제조 중소기업 간 공동 문제 해결을 위한 최소 데이터 항목, 원천 데이터 비공개 공동 AI 모델, 데이터 트러스트 및 성과 산정 기준 마련 (정책 과제 4) 제조 중소기업-중견·대기업 간 양방향 공급망 데이터 공유, 분석 인사이트 환류, 국제 표준 정합성 및 데이터 이용 관련 표준 계약·공정 거래 기반 구축 (정책 과제 5) 공급망 전반의 데이터 표준화·상호 운용성, 제조 AI 전문 인력, 데이터 권리 관계·가치 평가·성과 배분 및 분쟁 조정 기반을 단계적으로 정비 - 정책 추진은 단기적으로 기존 스마트 공장·제조 AI 지원 사업의 평가·지원 기준에 데이터 표준, 품질 검증, 시스템 연계 및 현장 환류 요건을 반영하고, 중기적으로 공동 문제 해결형 데이터 협력과 공급망 환류 플랫폼을 실증하며, 장기적으로 관련 법·제도와 표준 계약 체계를 정비하는 방향으로 추진할 필요가 있음.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319080?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 홍콩의 고령층을 위한 채권(Silv...</title>
@@ -114,7 +114,7 @@ AI 정책 뉴스
 
 한국은행은 홍콩의 고령층을 위한 채권 발행 현황 및 규모를 살펴본 보고서를 발표하였다. □ 홍콩 정부는 60세 이상 홍콩 거주민만이 청약 가능한 실버본드(Silver Bond)를 2026년에도 발행할 예정임 - 고령층의 안전하고 안정적인 노후 소득을 보장하는 한편 인프라 개발 등을 위한 투자 재원 조달을 목적으로 발행 □ 홍콩 정부는 2016년부터 매년 실버본드를 발행하고 있는데, 발행규모가 점진적으로 확대되고 있는 모습임</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319081?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.08.19 美, 폴리실리콘 및 파생제품 232...</title>
@@ -126,187 +126,187 @@ AI 정책 뉴스
 
 한국무역협회는 미국의 폴리실리콘 및 파생제품 대상 232조 조치를 살펴본 보고서를 발표하였다. - 미국은 무역확장법 232조 조사 결과에 따라 폴리실리콘 및 파생제품에 최저수입가격제와 15% 관세를 도입하고, 2026년 12월 4일부터 시행할 예정임. 최저수입가격제는 수입자의 미국 내 판매가격에 품목별 최저가격을 설정하고, 관련 요건을 충족하지 못할 경우 최저수입가격 또는 그 미달분에 해당하는 관세를 부과함. 태양광 셀·모듈 등 파생제품에는 최저수입가격제와 함께 15%의 추가 관세가 적용됨. 이번 조치는 중국계 저가 제품의 제3국 우회 유입을 억제하는 동시에, 그간 모듈 조립 중심으로 확대돼 온 미국 내 태양광 생산기반을 셀·웨이퍼 등 상류단계까지 확충하려는 것으로 평가됨.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/319082?newsType=policy</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:55 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] '실패'란 멋진 것이다...서울자...</title>
       <link>https://sople.me/author/board/295494</link>
       <guid isPermaLink="false">https://sople.me/author/board/295494</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 10초만에 후다닥⚡베이징 '휴머노...</title>
       <link>https://sople.me/author/board/295947</link>
       <guid isPermaLink="false">https://sople.me/author/board/295947</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 애플은 왜 '엔지니어'를 차기CE...</title>
       <link>https://sople.me/author/board/296166</link>
       <guid isPermaLink="false">https://sople.me/author/board/296166</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 평생 벌 돈 중 3,600분의 1...</title>
       <link>https://sople.me/author/board/295561</link>
       <guid isPermaLink="false">https://sople.me/author/board/295561</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 기후변화가 바꾼 일상</title>
       <link>https://sople.me/author/board/297627</link>
       <guid isPermaLink="false">https://sople.me/author/board/297627</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 트럼프 “적의 씨를 말려 버리겠다...</title>
       <link>https://sople.me/author/board/295260</link>
       <guid isPermaLink="false">https://sople.me/author/board/295260</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 루이14세, 하라고 시켜줘도 안하겠다</title>
       <link>https://sople.me/author/board/295238</link>
       <guid isPermaLink="false">https://sople.me/author/board/295238</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 트럼프 끝나자 푸틴과 회담… 시진...</title>
       <link>https://sople.me/author/board/301074</link>
       <guid isPermaLink="false">https://sople.me/author/board/301074</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 스페이스X 상장... 주식 사실 ...</title>
       <link>https://sople.me/author/board/303565</link>
       <guid isPermaLink="false">https://sople.me/author/board/303565</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] '곰표'맥주에 열광한 이유는......</title>
       <link>https://sople.me/author/board/301662</link>
       <guid isPermaLink="false">https://sople.me/author/board/301662</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 근엄한 이미지는 어디 가고… 대통...</title>
       <link>https://sople.me/author/board/301562</link>
       <guid isPermaLink="false">https://sople.me/author/board/301562</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 무심코 결제하던 넷플릭스 요금, ...</title>
       <link>https://sople.me/author/board/301350</link>
       <guid isPermaLink="false">https://sople.me/author/board/301350</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 바닷가 어부와 도시 사업가 중 누...</title>
       <link>https://sople.me/author/board/301758</link>
       <guid isPermaLink="false">https://sople.me/author/board/301758</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 방콕 블랙핑크 팬은 콘서트에 가고...</title>
       <link>https://sople.me/author/board/303679</link>
       <guid isPermaLink="false">https://sople.me/author/board/303679</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 동물과 식물에도 감정, 지능, 영...</title>
       <link>https://sople.me/author/board/308215</link>
       <guid isPermaLink="false">https://sople.me/author/board/308215</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 메시의 '해피엔딩'부터 코마네치의...</title>
       <link>https://sople.me/author/board/308254</link>
       <guid isPermaLink="false">https://sople.me/author/board/308254</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 해저케이블 냉전</title>
       <link>https://sople.me/author/board/308592</link>
       <guid isPermaLink="false">https://sople.me/author/board/308592</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 하늘엔 배송드론, 거리엔 청소로봇...</title>
       <link>https://sople.me/author/board/308676</link>
       <guid isPermaLink="false">https://sople.me/author/board/308676</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 나도 앤 해서웨이와 연결돼 있다....</title>
       <link>https://sople.me/author/board/308942</link>
       <guid isPermaLink="false">https://sople.me/author/board/308942</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 훅 들어온 AI 시대, "학벌은 ...</title>
       <link>https://sople.me/author/board/308959</link>
       <guid isPermaLink="false">https://sople.me/author/board/308959</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] '전략무기'가 된 인공지능(AI)</title>
       <link>https://sople.me/author/board/308667</link>
       <guid isPermaLink="false">https://sople.me/author/board/308667</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 무심코 투자하다 내 피같은돈이 날...</title>
       <link>https://sople.me/author/board/308654</link>
       <guid isPermaLink="false">https://sople.me/author/board/308654</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 더 이상 씨스타같은 여름 전문 걸...</title>
       <link>https://sople.me/author/board/311652</link>
       <guid isPermaLink="false">https://sople.me/author/board/311652</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 세계 최고 대교가 바꾼 중국 '최...</title>
       <link>https://sople.me/author/board/314497</link>
       <guid isPermaLink="false">https://sople.me/author/board/314497</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 품위 있게 사과하고 싶다면… 미국...</title>
       <link>https://sople.me/author/board/313634</link>
       <guid isPermaLink="false">https://sople.me/author/board/313634</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 반도체에 물린 당신에게: 게임의 ...</title>
       <link>https://sople.me/author/board/315502</link>
       <guid isPermaLink="false">https://sople.me/author/board/315502</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] ‘에어컨’의 교훈 : 대중의 마음...</title>
       <link>https://sople.me/author/board/315058</link>
       <guid isPermaLink="false">https://sople.me/author/board/315058</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 빌리진과 문워크....검은천정을 ...</title>
       <link>https://sople.me/author/board/314797</link>
       <guid isPermaLink="false">https://sople.me/author/board/314797</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] AI는 생산성을 ‘저절로’ 끌어올릴까?</title>
       <link>https://sople.me/author/board/311317</link>
       <guid isPermaLink="false">https://sople.me/author/board/311317</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 은비를 건물주로 만들어준 워터밤</title>
       <link>https://sople.me/author/board/315904</link>
       <guid isPermaLink="false">https://sople.me/author/board/315904</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:41 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 15:34:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
