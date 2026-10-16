@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:18:55 +0000</lastBuildDate>
     <item>
       <title>[AI뉴스] 2026.10.16 글로벌 AI 경쟁전략 및 대응방안:...</title>
       <link>https://sople.me/newsroom/news-list/337088?newsType=policy</link>
@@ -18,7 +18,7 @@ AI 정책 뉴스
 
 정보통신정책연구원은 AI 풀스택 경쟁에 대응한 한국의 기술 경쟁력 확보 정책 방향을 모색한 보고서를 발표하였다. - AI 기술 경쟁이 반도체·모델·플랫폼·서비스를 통합하는 풀스택 구도로 전환되면서, 기술 스택 전반에 걸친 구조적 기술 종속성이 국가 경쟁력의 핵심 변수로 작용하고 있음. - 본고에서는 주요국의 AI 풀스택 전략을 비교 분석하고, 한국의 기술 종속성 현황과 정책적 한계를 진단하여 최소한의 종속성과 최대한의 경쟁력을 동시에 확보하는 정책 방향을 제시함. 이를 위해 기존 강국과의 정면 경쟁이 아닌 한국의 메모리 반도체 및 모바일 생태계 강점을 활용한 전략을 제안함. 구체적으로는 ① GPU 기반 학습과 NPU 기반 추론의 하이브리드 인프라 구축, ② 범용 LLM에서 도메인 특화 모델로 이어지는 상호 환류 구조 설계, ③ 칩 설계사와 모델 개발사 간 초기 단계 협력을 통한 하드웨어-소프트웨어 최적화, ④ 산업 현장 중심의 AI 서비스 적용 및 비즈니스 모델 창출 가속화, ⑤ 글로벌 시장성과 리더십 확보라는 다섯 가지 정책 방향을 제시함.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337088?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 미국 9월 소비자물가 상승률, 오름...</title>
@@ -30,7 +30,7 @@ AI 정책 뉴스
 
 국제금융센터는 미국 9월 소비자물가와 추이를 살펴본 보고서를 발표하였다. - [결과] 미국 근원 소비자물가(CPI)는 전월비 0.3%(헤드라인은 0.6%) 상승하면서 3개월 연속 오름폭 확대. 전년 대비로도 8월 2.4%→9월 2.6%로 가속화(헤드라인은 3.4%→3.7%) - [시장반응] 9월 근원 CPI 예상치(+0.2%mom, +2.5%yoy) 상회, AI 기업 재무건전성 우려 등에 따른 위험회피성향 확대로 주가 하락, 국채금리10년물 하락, 달러화 강세 - [평가] 경제 전반에 걸쳐 경직적 물가상승 압력이 재확인됨에 따라 연준의 10월 추가 금리인상 가능성이 높아지는 등 통화긴축 기조가 예상보다 강화될 가능성도 제기</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337089?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 아세안 신흥국의 고금리 대응여력 점...</title>
@@ -42,7 +42,7 @@ AI 정책 뉴스
 
 국제금융센터는 아세안 신흥국의 고금리 대응여력을 살펴본 보고서를 발표하였다. - [검토배경] 최근 글로벌 국채금리가 상승하는 가운데 주요 선진국이 긴축적 통화 정책으로 전환하고 있어 주요 아세안 신흥국의 대응 여력과 금리 전망을 점검 - [대응여력 평가] 아세안 신흥국의 대외 건전성과 통화·재정 여력이 개선되었으며 동유럽·중남미 국가에 비해 선진국 금리 상승에 따른 부정적 영향도 다소 제한적 - [국가별 전망] 인도, 필리핀, 인니, 말레이는 물가·환율 안정 등을 위해 정책금리를 인상할 전망. 반면 태국과 베트남은 앞으로도 금리를 동결할 가능성 - [리스크 요인] 선진국의 고금리 기조가 장기화될 경우, 아세안 국가의 통화긴축 대응에도 불구하고 자금 유출 압력이 커지고 내수도 둔화될 우려</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337090?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 인도중앙은행의 외환시장 관련 조치 ...</title>
@@ -54,7 +54,7 @@ AI 정책 뉴스
 
 국제금융센터는 인도중앙은행의 외환시장 관련 조치 내용 및 평가를 살펴본 보고서를 발표하였다. - 인도중앙은행(이하 RBI)은 루피화 약세가 심화되자, 10.10일 통화가치 방어와 외환시장 내 투기 활동 억제 등을 골자로 한 대응 조치를 발표 - 주요 내용은 ▲국영 석유기업 달러 거래를 위한 특별창구 개설 ▲투기성 외환파생상품 거래 관련 규정 강화 ▲외환위험준비금 도입 등 - 금번 조치들은 루피화의 추가 절하를 방어하고 투기적 거래를 막는 것이 목적이지만, 그 효과는 단기에 그칠 소지. RBI의 매파적 통화정책 기조에도 불구하고 수급여건이 개선되지 않는 한 루피화의 강세 전환은 어려울 전망</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337091?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 일본은행 2026년 3분기중 지역경...</title>
@@ -66,7 +66,7 @@ AI 정책 뉴스
 
 한국은행은 일본의 2026년 3분기중 지역경제보고서를 살펴본 보고서를 발표하였다. - 일본은행은 9개 광역지역 중 2개 지역(토호쿠, 시코쿠)의 경기판단을 전분기(‘26.7월) 대비 상향조정*하고 그 외 지역은 전분기와 동일 - 7개 지역은 ‘완만하게 회복’, 1개 지역은 ‘개선’, 1개 지역은 ‘완만하게 개선’으로 판단 - 한편 큐슈·오키나와 지역의 경우 이전 경기판단을 유지하면서 ‘쿠마모토 지진의 영향 등’을 추가</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337092?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 저출생 대응 가족패널조사 사전연구(...</title>
@@ -78,7 +78,7 @@ AI 정책 뉴스
 
 한국여성정책연구원은 저출생 원인 규명과 국제 비교 가족 연구를 위한 한국가족패널조사 구축 방안을 살펴본 보고서를 발표하였다. - 급격한 가족 변화와 전 세계적으로 낮은 출산율을 경험하는 상황에서 가족 구성과 친밀한 관계 맺음의 생애 경로를 종단 추적하고 변화 지점을 규명하기 위한 데이터 구축은 우리 사회의 저출생 원인 규명에 필수적임. - 「한국가족패널조사(안)」는 저출생？고령화의 배경이 되는 가족 변화 양상과 일과 삶 전반에서 나타나는 개인의 생애 전망을 장기간 추적하는 것을 목적으로 하는 국내 유일한 가족 종단 자료로, 가족 구성과 친밀성, 일과 돌봄, 거주와 가구 생활, 가치관과 세대 간 관계 등 가족 변화가 개인의 삶에 어떤 의미와 전망 갖는지 분석할 수 있음. - 본 조사는 유엔유럽경제위원회(United Nations Economic Commission for Europe, UNECE) 및 ‘세대와 젠더 프로그램(Generations &amp; Gender Programme, GGP)’가 구축하는 다국가 패널 조사 「세대와 젠더 조사(Generations &amp; Gender Survey, GGS)」의 공통 문항을 도입하여 향후 국제 비교 가족 연구 수행에 활용될 수 있음.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337093?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 중국 은행산업의 구조조정 진행 평가...</title>
@@ -90,7 +90,7 @@ AI 정책 뉴스
 
 국제금융센터는 중국 은행산업의 구조조정 진행 평가 및 전망을 살펴본 보고서를 발표하였다. - [동향] 지난 4년간 중국 내 은행 법인수(`25년말 3,139개)가 촌진은행 등 지방 중소은행을 중심으로 총 23% 감소하는 등 은행권 구조조정이 진행 - [배경] 중국 정부가 부실위험, 지배구조 문제 등으로 금융시스템에서 취약성이 가장 큰 지방 중소은행을 독립적으로 유지하기보다 한계기관을 정리해 규모와 자본력을 갖춘 상위은행에 흡수통합하는 방식으로 산업구조를 재편 - [평가 및 전망] 중소은행을 중심으로 한 은행산업 구조조정 추진 노력 강화가 유동성 위기 가능성을 완화할 것으로 기대. 다만, 중소은행의 구조적 취약성은 단기 내 해소가 쉽지 않은 중장기 과제인 만큼 구조조정 실효성 등에 대한 모니터링이 필요</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337094?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 중국의 9월 구매관리자지수(PMI)...</title>
@@ -102,7 +102,7 @@ AI 정책 뉴스
 
 한국은행은 2026년 9월 구매관리자지수 동향과 평가를 살펴본 보고서를 발표하였다. 1. 9월 구매관리자지수(PMI) 동향 - (제조업 PMI) 9월 제조업 PMI(Purchasing Managers‘ Index, 구매관리자지수)는 50.1로 전월(49.8)보다 0.3p 상승하면서 기준치(50)를 상회 - (비제조업 PMI) 9월 비제조업 PMI는 50.2로 전월(49.0)에 비해 상승(1.2p)하면서 기 준 치(50)를 상회 - (종합 PMI) 9월 종합 PMI*(50.7)는 전월(49.5)에 비해 1.2p 상승 2. 시장평가 및 전망 - (평가) 제조업 PMI는 기상 교란요인 완화, 추석·국경절 연휴 전 재고비축, 분기말 생산·출하 확대 등에 힘입어 상승하였으며, 비제조업 PMI는 정책자금 집행 확대 등에 따른 건설업의 큰 폭 반등으로 상승 - (전망) 향후 중국경제는 재정정책 확대와 신규 정책성금융수단 투입 등에 힘입어 완만한 회복 흐름을 이어가겠으나 국경절 연휴 이후 계절적 수요 둔화와 원자재 가격 상승에 따른 기업 수익성 악화 등이 제약요인으로 작용할 가능성</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337095?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 최근 파생상품시장 주요 지표 점검 ...</title>
@@ -114,7 +114,7 @@ AI 정책 뉴스
 
 국제금융센터는 최근 파생상품시장 주요 지표를 살펴본 보고서를 발표하였다. - [이슈] 글로벌 금융시장은 지정학적 불확실성 지속, 고물가 및 고금리 부담에도 불구 주가는 비교적 견조한 흐름을 이어가는 등 대체로 우호적 시장 분위기가 전개 - [외환관련 파생상품 지표] `26년 1분기 이후 달러 강세 기대가 이어지는 가운데 변동성은 최근 점차 확대 조짐. 당분간 달러 강세 흐름이 지속될 가능성에 비중 - [주식관련 파생상품 지표] 미 주가 사상 최고치 경신 분위기 속에서 선물 및 옵션시장 참가자들은 제한적 반등 가능성을 염두. 다만 일부에선 잠재위험에 대한 경계감 여전 - [채권관련 파생상품 지표] 최근 국채금리 정점 논란에도 제반 여건상 고금리 및 높은 변동성 현상이 지속될 가능성을 시사. 특히 주요국들의 추가 금리 인상 기대도 상당 - [평가] 국제금융시장 제반 여건상 우호적 시장 분위기가 장기간 지속될 것으로 낙관하기에는 여전히 부담. 파생상품 지표들에 대해 종합적인 안목을 가지고 모니터링하는 한편 돌발 위험을 시사하는 신호들에 면밀한 관심 필요</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337096?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[AI뉴스] 2026.10.16 포용적 AI 기본사회 구현을 위한 ...</title>
@@ -126,187 +126,187 @@ AI 정책 뉴스
 
 정보통신정책연구원은 포용적 AI 기본사회 구현을 위한 정부·기업·시민 차원의 정책 방향을 모색한 보고서를 발표하였다. - 본 리포트는 포용적 AI 기본사회 구현을 위한 정부·기업·시민 차원에서 현 한국 사회에서 제도화 가능한 정책 방향의 대안을 찾아보고 방향성을 제시함. AI가 전 산업과 사회의 핵심 인프라로 자리 잡으면서, 정부는 ‘세계에서 AI를 가장 잘 쓰는 나라’, ‘안전과 책임 기반의 AI 기본사회’, ‘세계 1위 AI 정부’를 3대 국정과제로 설정하고, 모든 국민이 AI 혜택을 누릴 수 있는 보편적 접근을 위한 정책을 추진하고 있음. 포용적 AI 기본사회 구현을 위해서는 정부, 기업, 시민의 협력적 접근이 필요함. 정부 차원에서는 공공 컴퓨팅 투자, 핵심 기술 확보, 오픈 소스 LLM 개발 등 혁신 지원과 함께 취약계층 접근성 확대, 교육 제공, 윤리·안전 기반 구축 등 포용 정책을 상호 보완적으로 추진해야 함. 기업 차원에서는 윤리적 이슈를 자율적으로 관리할 수 있는 AI 거버넌스 체계를 구축하고, 거버넌스 기반 조성, 위험 관리 및 책임성 확보, 투명성 제고 등의 실행 프로세스를 제도화해야 함. 시민 차원에서는 전 생애 주기에 걸친 AI 리터러시 교육과 함께 개인정보 보호, 미성년자 보호, AI 차별 방지 등 권익 보호 체계가 마련되어야 함. 산관학연 전문가 설문조사를 통해 우선순위를 파악한 결과 AI 기본사회 구현을 위해 인력 양성 및 글로벌 인재 유치, 국가 주도 개방형 LLM 개발, AI 안전성 평가 체계 구축, 디지털 소외계층 대상 맞춤형 교육, 개인정보 삭제권 보장 등이 핵심 과제로 제시되었음. AI는 단순한 기술을 넘어 사회의 기본 인프라로 기능하며, 이를 지속 가능하고 포용적으로 발전시키기 위해 정부·기업·시민 모두의 공동 노력이 필요함.</description>
       <guid isPermaLink="false">https://sople.me/newsroom/news-list/337097?newsType=policy</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:28 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 더 이상 씨스타같은 여름 전문 걸...</title>
       <link>https://sople.me/author/board/311652</link>
       <guid isPermaLink="false">https://sople.me/author/board/311652</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 세계 최고 대교가 바꾼 중국 '최...</title>
       <link>https://sople.me/author/board/314497</link>
       <guid isPermaLink="false">https://sople.me/author/board/314497</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 품위 있게 사과하고 싶다면… 미국...</title>
       <link>https://sople.me/author/board/313634</link>
       <guid isPermaLink="false">https://sople.me/author/board/313634</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 반도체에 물린 당신에게: 게임의 ...</title>
       <link>https://sople.me/author/board/315502</link>
       <guid isPermaLink="false">https://sople.me/author/board/315502</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] ‘에어컨’의 교훈 : 대중의 마음...</title>
       <link>https://sople.me/author/board/315058</link>
       <guid isPermaLink="false">https://sople.me/author/board/315058</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 빌리진과 문워크....검은천장을 ...</title>
       <link>https://sople.me/author/board/314797</link>
       <guid isPermaLink="false">https://sople.me/author/board/314797</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] AI는 생산성을 ‘저절로’ 끌어올릴까?</title>
       <link>https://sople.me/author/board/311317</link>
       <guid isPermaLink="false">https://sople.me/author/board/311317</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 은비를 건물주로 만들어준 워터밤</title>
       <link>https://sople.me/author/board/315904</link>
       <guid isPermaLink="false">https://sople.me/author/board/315904</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 제품도 없는데 시작된 ‘포스트 아...</title>
       <link>https://sople.me/author/board/316215</link>
       <guid isPermaLink="false">https://sople.me/author/board/316215</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 국가가 '돈 되는 전공'을 고른다...</title>
       <link>https://sople.me/author/board/319115</link>
       <guid isPermaLink="false">https://sople.me/author/board/319115</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 내 자산을 지켜줄 80:20 배당...</title>
       <link>https://sople.me/author/board/312884</link>
       <guid isPermaLink="false">https://sople.me/author/board/312884</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] '닝더의 시대'를 만든 배터리🔋C...</title>
       <link>https://sople.me/author/board/320381</link>
       <guid isPermaLink="false">https://sople.me/author/board/320381</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 분노지수 치솟으면 욕쟁이 되는 대...</title>
       <link>https://sople.me/author/board/320142</link>
       <guid isPermaLink="false">https://sople.me/author/board/320142</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 반도체는 없어서 못 판다는데, 왜...</title>
       <link>https://sople.me/author/board/321416</link>
       <guid isPermaLink="false">https://sople.me/author/board/321416</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 대한민국 플랜트에 혁신의 도면을 ...</title>
       <link>https://sople.me/author/board/323633</link>
       <guid isPermaLink="false">https://sople.me/author/board/323633</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 푸른 바다와 지구를 지키는 기술,...</title>
       <link>https://sople.me/author/board/323634</link>
       <guid isPermaLink="false">https://sople.me/author/board/323634</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 시간을 빚는 80년의 뚝심, 강원...</title>
       <link>https://sople.me/author/board/323640</link>
       <guid isPermaLink="false">https://sople.me/author/board/323640</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 연필에서 시작해 필기의 역사를 이...</title>
       <link>https://sople.me/author/board/323641</link>
       <guid isPermaLink="false">https://sople.me/author/board/323641</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 내연기관 1위에서 미래차의 심장으...</title>
       <link>https://sople.me/author/board/323646</link>
       <guid isPermaLink="false">https://sople.me/author/board/323646</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 5%의 틈새에서 찾은 글로벌 팹리...</title>
       <link>https://sople.me/author/board/323650</link>
       <guid isPermaLink="false">https://sople.me/author/board/323650</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 메타의 영리한 후퇴? SNS는 어...</title>
       <link>https://sople.me/author/board/321668</link>
       <guid isPermaLink="false">https://sople.me/author/board/321668</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 스파이더맨도 휴식이 필요해!......</title>
       <link>https://sople.me/author/board/321663</link>
       <guid isPermaLink="false">https://sople.me/author/board/321663</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 내년엔 '한 번도 못 겪어본 더 ...</title>
       <link>https://sople.me/author/board/320553</link>
       <guid isPermaLink="false">https://sople.me/author/board/320553</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 3억으로 파이어가능합니다 단, 이...</title>
       <link>https://sople.me/author/board/320920</link>
       <guid isPermaLink="false">https://sople.me/author/board/320920</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 운전석에 사람이 사라졌다? 상하이...</title>
       <link>https://sople.me/author/board/331840</link>
       <guid isPermaLink="false">https://sople.me/author/board/331840</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 헌트릭스는 어떻게 블랙핑크보다 먼...</title>
       <link>https://sople.me/author/board/321723</link>
       <guid isPermaLink="false">https://sople.me/author/board/321723</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] '점점 멍청해지는 아이들'... ...</title>
       <link>https://sople.me/author/board/328575</link>
       <guid isPermaLink="false">https://sople.me/author/board/328575</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 박수 칠 때 떠나라… 뒷모습이 아...</title>
       <link>https://sople.me/author/board/330063</link>
       <guid isPermaLink="false">https://sople.me/author/board/330063</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] "속도 늦추자"는 AI 기업들, ...</title>
       <link>https://sople.me/author/board/333046</link>
       <guid isPermaLink="false">https://sople.me/author/board/333046</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
       <title>[교양이연구소] 소용돌이냐 괴물이냐. 오디세우스의...</title>
       <link>https://sople.me/author/board/333436</link>
       <guid isPermaLink="false">https://sople.me/author/board/333436</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:18 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:18:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
